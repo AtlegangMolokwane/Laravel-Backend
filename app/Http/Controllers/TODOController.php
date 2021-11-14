@@ -27,7 +27,6 @@ class ToDoController extends Controller
     {
         $request->validate([
             'item' => 'required',
-            'done' => 'required',
         ]);
 
         return To_do::create($request->all());
