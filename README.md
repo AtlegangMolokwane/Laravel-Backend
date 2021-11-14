@@ -6,4 +6,4 @@
 - run "php artisan serve"
 
 ## database
-- I connected my laravel to my postgresql, I am no sure how you will connect to it or get the data. Please in form me if there is something I have to do for you to get the connection.
+- I connected my laravel to my postgresql database, I am no sure how you will connect to it or get the data. Please in-form me if there is something I have to do for you to get the connection.
